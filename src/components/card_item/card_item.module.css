@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.title {
+  align-items: center;
+  display: flex;
+  margin-bottom: 10px;
+}
+.nickname {
+  padding-left: 10px;
+}
+
+.nickname {
+  font-size: 15px;
+  font-style: normal;
+}
+.profileImage {
+  height: 30px;
+  width: 30px;
+}
+
+.roomImage {
+  border-radius: 6px;
+  height: auto;
+  width: 100%;
+  object-fit: cover;
+}

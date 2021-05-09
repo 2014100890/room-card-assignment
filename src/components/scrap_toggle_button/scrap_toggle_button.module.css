@@ -1,0 +1,10 @@
+.scrap_toggle_button {
+  align-items: center;
+  bottom: 10%;
+  cursor: pointer;
+  display: flex;
+  position: absolute;
+  right: 10%;
+  justify-content: center;
+  transform: translate(50%, 50%);
+}

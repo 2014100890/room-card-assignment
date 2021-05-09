@@ -1,0 +1,10 @@
+.app {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  box-sizing: border-box;
+  width: 1256px;
+  padding: 30px 60px;
+}

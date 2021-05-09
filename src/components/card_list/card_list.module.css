@@ -1,0 +1,10 @@
+.cards {
+  column-gap: 20px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  row-gap: 30px;
+}
+
+.card_container {
+  position: relative;
+}
